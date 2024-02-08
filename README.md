@@ -19,7 +19,7 @@ Features:
 How to use:
 1. Make a material with the shader
 2. Place the material into the material slot in your terrain's settings
-3. The height value is determined by the height of your terrain in the terrain settingss i.e. if your terrain is 5000 units high you would set the values to something like water 500, sand 1000, grass 2000, rock 3000, snow 4000, etc
+3. The height value is determined by the height of your terrain in the terrain settings i.e. if your terrain is 5000 units high you would set the values to something like water 500, sand 1000, grass 2000, rock 3000, snow 4000, etc
 
 Note: Because the cliffs use a triplanar node the scale value is reversered so intead of using a value like 10 you'll use a value like 0.01
 
